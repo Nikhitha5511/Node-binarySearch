@@ -1,0 +1,11 @@
+{
+  "name": "binary-search-package-nikhitha",
+  "version": "1.0.0",
+  "description": "A package for performing binary search in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikhitha",
+  "license": "ISC"
+}
